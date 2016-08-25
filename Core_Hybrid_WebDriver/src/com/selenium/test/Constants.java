@@ -1,4 +1,4 @@
-package com.qtpselenium.test;
+package com.selenium.test;
 
 public class Constants {
 	
