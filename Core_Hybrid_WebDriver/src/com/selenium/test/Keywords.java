@@ -1,10 +1,10 @@
-package com.qtpselenium.test;
-import static com.qtpselenium.test.DriverScript.APP_LOGS;
-import static com.qtpselenium.test.DriverScript.CONFIG;
-import static com.qtpselenium.test.DriverScript.OR;
-import static com.qtpselenium.test.DriverScript.currentTestSuiteXLS;
-import static com.qtpselenium.test.DriverScript.currentTestCaseName;
-import static com.qtpselenium.test.DriverScript.currentTestDataSetID;
+package com.selenium.test;
+import static com.selenium.test.DriverScript.APP_LOGS;
+import static com.selenium.test.DriverScript.CONFIG;
+import static com.selenium.test.DriverScript.OR;
+import static com.selenium.test.DriverScript.currentTestSuiteXLS;
+import static com.selenium.test.DriverScript.currentTestCaseName;
+import static com.selenium.test.DriverScript.currentTestDataSetID;
 
 
 import java.io.File;
