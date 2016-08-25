@@ -1,4 +1,4 @@
-package com.qtpselenium.test;
+package com.selenium.test;
 
 import java.io.File;
 import java.io.FileInputStream;
