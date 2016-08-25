@@ -1,4 +1,4 @@
-package com.qtpselenium.util;
+package com.selenium.util;
 // reads the xls files and generates corresponding html reports
 // Calls sendmail - mail
 import java.io.*;
