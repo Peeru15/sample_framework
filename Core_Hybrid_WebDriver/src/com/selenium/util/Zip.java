@@ -1,4 +1,4 @@
-package com.qtpselenium.util;
+package com.selenium.util;
 
 import java.io.*;
 import java.io.File;
